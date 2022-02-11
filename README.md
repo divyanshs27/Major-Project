@@ -8,8 +8,6 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 * Liver Disease
 
 
-## NOTE
-=> You can access the website live at: https://mdcps.herokuapp.com/ <br> 
 
 ## Steps to run the WebApp in local Computer
 **Step-1:** Download the files in the repository.<br>
