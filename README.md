@@ -6,9 +6,13 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 * Diabetes
 * Kidney Disease
 * Liver Disease
+* Kidney Disease
+* Liver Disease
+* Malaria
+* Pneumonia
 
 ## NOTE
-=> You can access the website live at: https://diseaseclassification.herokuapp.com/ <br> 
+=> You can access the website live at: https://mdcps.herokuapp.com/ <br> 
 
 ## Steps to run the WebApp in local Computer
 **Step-1:** Download the files in the repository.<br>
