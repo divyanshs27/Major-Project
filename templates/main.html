@@ -49,13 +49,24 @@ footer{
              <li class="nav-item active">
                <a class="nav-link" href="{{ url_for('diabetesPage') }}">Diabetes</a>
              </li>
-            <li class="nav-item active">
+             <li class="nav-item active">
+               <a class="nav-link" href="{{ url_for('cancerPage') }}">Breast Cancer</a>
+             </li>
+             <li class="nav-item active">
+                <a class="nav-link" href="{{ url_for('heartPage') }}">Heart</a>
+             </li>
+             <li class="nav-item active">
                 <a class="nav-link" href="{{ url_for('kidneyPage') }}">Kidney</a>
               </li>
               <li class="nav-item active">
                 <a class="nav-link" href="{{ url_for('liverPage') }}">Liver</a>
               </li>
-              
+              <li class="nav-item active">
+                <a class="nav-link" href="{{ url_for('malariaPage') }}">Malaria</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="{{ url_for('pneumoniaPage') }}">Pneumonia</a>
+              </li>
            </ul>
          </div>
        </nav>
@@ -70,6 +81,7 @@ footer{
 	{% endblock %}
     </div>
   </main>
-
+  <footer>
+  </footer>
 </body>
 </html>
